@@ -1,5 +1,7 @@
 # IPBlockr
 
+This repository is the public home of IPBlockr - documentation, announcements and issue tracking. The service itself runs at [ipblockr.cc](https://ipblockr.cc).
+
 IPBlockr is a website security service that screens every visitor - VPNs,proxies, Tor exits, datacenter/hosting IPs, and fake search-engine bots - and blocks them before they reach your pages. One file, one line ofcode, five minutes to install.
 
 ipblockr.cc - free plan forever, no card required.
